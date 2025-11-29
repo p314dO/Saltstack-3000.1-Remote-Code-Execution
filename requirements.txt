@@ -1,0 +1,9 @@
+salt
+pyyaml
+looseversion
+packaging
+tornado
+msgpack
+distro
+jinja2
+zmq
