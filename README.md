@@ -1,5 +1,6 @@
 # Saltstack-3000.1 Remote-Code-Execution
 
+## CVE-2020-11652 & CVE-2020-11651
 ## Installation
 Create a virtual env
 ```
